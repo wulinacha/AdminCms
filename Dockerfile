@@ -1,4 +1,4 @@
-FROM php:7.1apache
+FROM php7.1
 ENV PORT 80
 EXPOSE 80
 COPY . /var/www/html
