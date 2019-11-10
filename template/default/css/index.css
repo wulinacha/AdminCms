@@ -1,0 +1,16 @@
+.htitle{
+    margin-bottom: 4%;
+    color: #fba133;
+    text-align: center;
+    width: 100%;
+    display: block;
+}
+.more{
+    color: #333;
+        display: inline-block;
+        width: 226px;
+        line-height: 55px;
+        border: 1px solid rgba(51, 51, 51, 0.58);
+        font-size: 22px;
+        margin-top: 2%;
+}
