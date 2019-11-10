@@ -83,4 +83,21 @@
 
 支持跨版本升级，会自动升级数据库及代码文件。
 
+* 使用全包升级：
 
+支持跨版本升级，保留config、data、static、template目录，其余全部用新版替换， 同时如果涉及到的中间版本有升级数据库，需要使用群文件数据库脚本升级数据库。
+
+
+##  关于授权码：
+授权码只为更好的统计安装情况，为离线验证，大家可在官网免费获取永久授权码。
+
+
+##  联系我们：
+
+技术交流群：137083872
+
+官方网站：https://www.pbootcms.com/
+
+GitHub：https://github.com/hnaoyun/PbootCMS
+
+Gitee：https://gitee.com/hnaoyun/PbootCMS 

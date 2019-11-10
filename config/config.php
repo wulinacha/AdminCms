@@ -1,4 +1,4 @@
-﻿<?php
+<?php
 return array(
     
     // 授权码，多个授权码使用英文逗号隔开，如：'aaaaa,bbbbb'
